@@ -1,9 +1,5 @@
 ﻿# Memories Social Media
 
-
-
-
-
 Technologies used:
 
  1. ReactJS + Vite (Frontend)
@@ -20,17 +16,6 @@ How to run:
 4. To run just the client side cd into the client folder and use `npm run dev`
 
 
-How it works: 
-    1. A user can register to Memories and the log into their account(see image 1 and 2). 
-    2. After which they can see other post (see image 3) and they got an option to post their 
-          good memories that has happen in their life (see image 4).        
-    3. You can update and delete post,  you can see your post (see image 5).
-    4. You can switch into Dark mode and Light mode (see image 6).
-    5. You can go to other user profile (see image 7) and see him/her friend list and can like       post and can give comment and can see other user comment.
-   6. You have got a option name logout on the top right side corner a dropdown button (see 
-       image 8) and after clicking it you got logout from memories and it tranfer you into your 
-       login page.
-   7. You can go to your profile and edit details(see image 9).
 
 
 
