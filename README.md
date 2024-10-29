@@ -19,9 +19,10 @@ How to run:
 3. To run the development server use the command `npm start`
 4. To run just the client side cd into the client folder and use `npm run dev`
 
-How it Works: 
+How it works: 
 
-SnapSots:
+Snapsots:
+
 image 1:
 ![Screenshot 2024-10-29 120652](https://github.com/user-attachments/assets/472ff407-2d5e-4d4d-ad24-2be7963d47a8)
 
