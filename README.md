@@ -1,9 +1,5 @@
 ﻿# Memories Social Media
 #
-#
-#
-#
-#
 
 
 
