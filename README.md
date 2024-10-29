@@ -1,31 +1,47 @@
-﻿# Memories Social Media
+# Memories Social Media App
 
-Technologies used:
+**Memories** is a social media platform where users can share and engage with memorable moments in their lives. This app allows users to register, post, like, comment, and manage profiles with a user-friendly interface.
 
- 1. ReactJS + Vite (Frontend)
- 2. Material UI (Styling)
- 3. NodeJS with express (Backend)
- 4. MongoDB (Database)
+## Technologies Used
 
-How to run:
+1. **ReactJS** with **Vite** (Frontend)
+2. **Material UI** (Styling)
+3. **NodeJS** with **Express** (Backend)
+4. **MongoDB** (Database)
 
-1. Clone/Download this repository to your local system.
-2. cd into the project folder and run the command `npm i` to install all the required dependencies.
-3. To run the development server use the command `npm start`
-4. To run just the client side cd into the client folder and use `npm run dev`
+## How to Run
 
+1. Clone or download this repository to your local system.
+2. Navigate to the project folder in the terminal and run `npm i` to install all required dependencies.
+3. To start the development server, run `npm start`.
+4. To run the client side separately, navigate to the `client` folder and use `npm run dev`.
 
-Features of the app:
-    1. A user can register to Memories and the log into their account(see image 1 and 2).
-    2. After which they can see other post (see image 3) and they got an option to post their 
-        good memories that has happen in their life (see image 4).        
-    3. You can update and delete post,  you can see your post (see image 5).
-    4. You can switch into Dark mode and Light mode (see image 6).
-    5. You can go to other user profile (see image 7) and see him/her friend list and can like       post and can give comment and can see     other user comment.
-   6. You have got a option name logout on the top right side corner a dropdown button (see 
-      image 8) and after clicking it you got logout from memories and it tranfer you into your 
-      login page.
-   7. You can go to your profile and edit details(see image 9).
+## Features of the App
+
+1. **User Registration and Login**:
+   - Users can register an account on **Memories** and log in to access features (see images 1 and 2).
+
+2. **View and Share Posts**:
+   - After logging in, users can view posts from other users (see image 3) and create new posts to share their own memories (see image 4).
+
+3. **Post Management**:
+   - Users can update or delete their own posts and view all posts they’ve shared (see image 5).
+
+4. **Dark and Light Mode**:
+   - Users can toggle between dark mode and light mode for a customizable viewing experience (see image 6).
+
+5. **User Profiles and Social Interactions**:
+   - Users can visit other profiles (see image 7), view their friend lists, like posts, add comments, and see comments from other users.
+
+6. **Logout Option**:
+   - A dropdown **Logout** option is available at the top right corner (see image 8). Clicking it logs the user out and redirects them to the login page.
+
+7. **Profile Editing**:
+   - Users can go to their profile and edit their details (see image 9).
+
+--- 
+
+This README should make it easy for users to understand the setup process and key features of your **Memories** social media app.
 
 
 
