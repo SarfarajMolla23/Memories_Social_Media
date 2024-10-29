@@ -1,17 +1,19 @@
 ﻿# Memories Social Media
 
 
+
+
 Technologies used:
 
-ReactJS (Frontend)
-Material UI (Styling)
-NodeJS with express (Backend)
-MongoDB (Database)
+ 1. ReactJS + Vite (Frontend)
+ 2. Material UI (Styling)
+ 3. NodeJS with express (Backend)
+ 4. MongoDB (Database)
 
 
 How to run:
 
-Clone/Download this repository to your local system.
-cd into the project folder and run the command `npm i` to install all the required dependencies.
-To run the development server use the command `npm start`
-To run just the client side cd into the client folder and use `npm run dev`
+1. Clone/Download this repository to your local system.
+2. cd into the project folder and run the command `npm i` to install all the required dependencies.
+3. To run the development server use the command `npm start`
+4. To run just the client side cd into the client folder and use `npm run dev`
