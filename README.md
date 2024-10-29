@@ -7,13 +7,13 @@ Technologies used:
  3. NodeJS with express (Backend)
  4. MongoDB (Database)
 
-
 How to run:
 
 1. Clone/Download this repository to your local system.
 2. cd into the project folder and run the command `npm i` to install all the required dependencies.
 3. To run the development server use the command `npm start`
 4. To run just the client side cd into the client folder and use `npm run dev`
+
 
 Features of the app:
     1. A user can register to Memories and the log into their account(see image 1 and 2).
@@ -29,7 +29,7 @@ Features of the app:
 
 
 
-Snapsots:
+Demo images of the Web App:
 
 image 1:
 ![Screenshot 2024-10-29 120652](https://github.com/user-attachments/assets/472ff407-2d5e-4d4d-ad24-2be7963d47a8)
